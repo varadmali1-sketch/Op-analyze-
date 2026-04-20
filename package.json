@@ -1,8 +1,0 @@
-{
-  "name": "nifty-option-chain-analyzer",
-  "version": "1.0.0",
-  "description": "God Level Nifty Option Chain Analyzer — NSE Live Data — Greeks · OI · PCR · FII — No API Key",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18.0.0" }
-}
