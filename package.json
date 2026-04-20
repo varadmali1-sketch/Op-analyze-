@@ -1,0 +1,1 @@
+{"name":"india-paper-trader-v3","version":"3.0.0","description":"India Paper Trader v3 — 15 Strategies — Nifty+BankNifty+Sensex — Yahoo Finance — No API Key","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18.0.0"}}
