@@ -1,0 +1,1 @@
+{"name":"option-chain-analyzer-v2","version":"2.0.0","description":"God Level Option Chain Analyzer — Nifty/BankNifty/Sensex — 12-Factor Signal — Gamma — Overnight","main":"server.js","scripts":{"start":"node server.js"},"engines":{"node":">=18.0.0"}}
